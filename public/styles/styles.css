@@ -53,13 +53,13 @@ header{
 #main-section{
     width: 100%;
     height: 80vh;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .array-area{
     width: 100%;
     height: 80%;
-    border: 2px solid darkblue;
+    /* border: 2px solid darkblue; */
 }
 
 footer{
@@ -69,7 +69,7 @@ footer{
     bottom: 0;
     height: 10vh;
     width: 100vw;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 footer p{
@@ -141,5 +141,5 @@ footer p{
         display: flex;
         justify-content: flex-end;
     }
-} 
+}
 
